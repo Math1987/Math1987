@@ -6,6 +6,4 @@
 - 🤔 I’m looking for help with Smartcontracts (programs) and RUST 😂
 - 💬 Ask me about Angular 👍 Ionic 👍 Express 👍 Mocha 👍 AWS 👍
 - 📫 How to reach me: mathieucolla@gmail.com 
-- 😄 Pronouns: Math17
-- ⚡ Fun fact: If Elon Musk like to share patents to the world 🙏 , can you tell me wy he doesn't put spaceX's starship 🚀 program as opensource on github ? 😅
-
+- 😄 Pronouns: You can call me Math
