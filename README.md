@@ -1,6 +1,6 @@
 # Mathieu Colla
 
-Founder and engineer at [Aithos](https://www.aithos.be), a trust and identity layer for AI agents.
+Founder and engineer at [Aithos](https://aithos.world), a trust and identity layer for AI agents.
 
 Aithos gives agents portable identity, scoped mandates, revocation, and cryptographically verifiable action logs — without making a platform the trust authority.
 
