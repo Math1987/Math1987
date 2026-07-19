@@ -1,12 +1,24 @@
-### Hi there 👋
+# Mathieu Colla
 
-- 🔭 I’m currently working on **fullstack JS & Solana Blockchain** as Game Developper 
-- 🌱 I’m currently improving knowedges in Solana Blockchain  ❤️ ❤️ ❤️ 
-- 👯 I’m looking to collaborate on projects arround Blockchain
-- 🤔 I’m looking for help about community managment or marketing to launch my games 😂
-- 💬 Ask me about Angular 👍 Ionic 👍 Express 👍 Mocha 👍 AWS 👍
-- 📫 How to reach me: mathieucolla@gmail.com 
-- 😄 Pronouns: You can call me Math
+Founder and engineer at [Aithos](https://www.aithos.be), a trust and identity layer for AI agents.
 
-My portfolio
-https://mathieucolla.webflow.io/
+Aithos gives agents portable identity, scoped mandates, revocation, and cryptographically verifiable action logs — without making a platform the trust authority.
+
+## Building now
+
+- [**Aithos Core**](https://github.com/aithos-protocol/aithos-core) — Rust reference implementation, conformance vectors, CLI, WASM, gateway and provider components.
+- [**Aithos Protocol**](https://github.com/aithos-protocol/aithos-protocol) — public specification for portable digital identity and delegated authority.
+- [**Aithos SDK**](https://github.com/aithos-protocol/aithos-sdk) — TypeScript SDK for building agentic applications on the protocol.
+- [**Reference app**](https://github.com/aithos-protocol/aithos-app-exemple) — an end-to-end owner/delegate demonstration using signed envelopes instead of bearer sessions.
+
+The protocol, packages and hosted services are currently in alpha. I am focused on turning a deep trust primitive into something developers can try in minutes.
+
+## Background
+
+Before Aithos, I shipped full-stack web, mobile, game and blockchain products. My current work spans protocol design, applied cryptography, Rust, TypeScript and cloud infrastructure.
+
+## Start here
+
+[Try Aithos](https://app.aithos.be) · [Read the protocol](https://github.com/aithos-protocol/aithos-protocol) · [Explore the organization](https://github.com/aithos-protocol)
+
+Contact: [mathieu@aithos.be](mailto:mathieu@aithos.be)
