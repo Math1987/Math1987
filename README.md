@@ -9,7 +9,7 @@ Aithos gives agents portable identity, scoped mandates, revocation, and cryptogr
 - [**Aithos Core**](https://github.com/aithos-protocol/aithos-core) — Rust reference implementation, conformance vectors, CLI, WASM, gateway and provider components.
 - [**Aithos Protocol**](https://github.com/aithos-protocol/aithos-protocol) — public specification for portable digital identity and delegated authority.
 - [**Aithos SDK**](https://github.com/aithos-protocol/aithos-sdk) — TypeScript SDK for building agentic applications on the protocol.
-- [**Reference app**](https://github.com/aithos-protocol/aithos-app-exemple) — an end-to-end owner/delegate demonstration using signed envelopes instead of bearer sessions.
+- [**Reference app**](https://github.com/aithos-protocol/aithos-app-example) — an end-to-end owner/delegate demonstration using signed envelopes instead of bearer sessions.
 
 The protocol, packages and hosted services are currently in alpha. I am focused on turning a deep trust primitive into something developers can try in minutes.
 
